@@ -1,2 +1,3 @@
 # MyDBApplication
-Hello world!
+Hello people of earth!
+
